@@ -1,6 +1,4 @@
-=# Click to Roll Dice in Flutter
-
-![Flutter Logo](https://flutter.dev/assets/homepage/carousel/flutter-logo.png)
+# Click to Roll Dice in Flutter
 
 This Flutter project demonstrates a simple "Click to Roll Dice" application. It allows users to click a button, and a pair of dice are rolled, displaying random values. It's a fun and interactive way to simulate rolling dice using Flutter!
 
